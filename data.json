@@ -1,44 +1,8 @@
 {
- "actualizado": "2026-11-21T06:55:01+00:00",
+ "actualizado": "2026-11-22T06:54:17+00:00",
  "total": 927,
- "nuevos_cn": [
-  "607314",
-  "621185",
-  "654825",
-  "661686",
-  "663248",
-  "686578",
-  "694051",
-  "698437",
-  "701574",
-  "707990",
-  "714903",
-  "716776",
-  "718507",
-  "718784",
-  "729114",
-  "730228",
-  "731861",
-  "858506"
- ],
- "resueltos_cn": [
-  "650588",
-  "661503",
-  "672655",
-  "679488",
-  "690289",
-  "691062",
-  "697290",
-  "701105",
-  "730616",
-  "739664",
-  "740084",
-  "754804",
-  "762633",
-  "762641",
-  "762702",
-  "766525"
- ],
+ "nuevos_cn": [],
+ "resueltos_cn": [],
  "resultados": [
   {
    "cn": "730228",
@@ -4455,9 +4419,9 @@
    "nombre": "OXALIPLATINO HIKMA 5 MG/ML CONCENTRADO PARA SOLUCION PARA PERFUSION EFG, 1 vial de 20 ml",
    "tipoProblemaSuministro": 5,
    "fini": "2026-06-29",
-   "ffin": "2026-11-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "680773",
