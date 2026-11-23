@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T06:54:17+00:00",
+ "actualizado": "2026-11-23T07:15:24+00:00",
  "total": 927,
  "nuevos_cn": [],
  "resueltos_cn": [],
@@ -1233,9 +1233,9 @@
    "nombre": "FINGOLIMOD AUROVITAS 0,5 MG CAPSULAS DURAS EFG, 28 cápsulas",
    "tipoProblemaSuministro": 10,
    "fini": "2026-10-29",
-   "ffin": "2026-11-22",
    "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. acondicionadas en un idioma distinto al castellano para concursos adjudicados."
+   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. acondicionadas en un idioma distinto al castellano para concursos adjudicados.",
+   "ffin": null
   },
   {
    "cn": "762413",
@@ -1422,9 +1422,9 @@
    "nombre": "NEURONTIN 800 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 90 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-28",
-   "ffin": "2026-11-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "703505",
@@ -1548,9 +1548,9 @@
    "nombre": "TAPTIQOM 15 MICROGRAMOS/ML + 5 MG/ML COLIRIO EN SOLUCION, 1 frasco de 3 ml",
    "tipoProblemaSuministro": 6,
    "fini": "2026-10-27",
-   "ffin": "2026-11-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "868166",
@@ -1917,9 +1917,9 @@
    "nombre": "EVOPAD 75 microgramos/24 H PARCHES TRANSDERMICOS, 8 parches",
    "tipoProblemaSuministro": 3,
    "fini": "2026-10-18",
-   "ffin": "2026-11-22",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
+   "ffin": null
   },
   {
    "cn": "765998",
@@ -3051,9 +3051,9 @@
    "nombre": "ACICLOVIR SALA 250 MG POLVO PARA SOLUCION PARA PERFUSION EFG, 5 viales de 10 ml",
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-09",
-   "ffin": "2026-11-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "663294",
