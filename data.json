@@ -1,19 +1,142 @@
 {
- "actualizado": "2026-11-24T06:58:54+00:00",
- "total": 931,
+ "actualizado": "2026-11-25T07:01:59+00:00",
+ "total": 932,
  "nuevos_cn": [
-  "606429",
-  "660456",
-  "676514",
-  "704618",
-  "728298",
-  "731500"
+  "607120",
+  "677138",
+  "680788",
+  "701898",
+  "711005",
+  "715219",
+  "731533",
+  "744085",
+  "758029",
+  "760531",
+  "764522",
+  "816223"
  ],
  "resueltos_cn": [
-  "696661",
-  "709947"
+  "607581",
+  "653440",
+  "660879",
+  "693688",
+  "711116",
+  "723375",
+  "723765",
+  "723766",
+  "733090",
+  "763545",
+  "916585"
  ],
  "resultados": [
+  {
+   "cn": "764522",
+   "nombre": "AZITROMICINA PENSA 500 mg GRANULADO PARA SUSPENSION ORAL EFG, 3 sobres",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "ffin": "2027-01-30",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "715219",
+   "nombre": "BECOTIDE 50 microgramos/inhalación SOLUCION PARA INHALACION EN ENVASE A PRESION , 1 cartucho de 200 dosis",
+   "tipoProblemaSuministro": 3,
+   "fini": "2026-11-23",
+   "activo": true,
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
+   "ffin": null
+  },
+  {
+   "cn": "731533",
+   "nombre": "COHORTAN 5 MG/G + 5 MG/G POMADA RECTAL, 1 tubo de 30 g",
+   "tipoProblemaSuministro": 3,
+   "fini": "2026-11-23",
+   "ffin": "2027-02-28",
+   "activo": true,
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
+  },
+  {
+   "cn": "744085",
+   "nombre": "ENALAPRIL NORMON 10 MG COMPRIMIDOS EFG, 28 comprimidos",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "ffin": "2026-12-22",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "701898",
+   "nombre": "ESCITALOPRAM FLAS STADA 20 MG COMPRIMIDOS BUCODISPERSABLES EFG, 28 comprimidos",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "ffin": "2026-12-19",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "711005",
+   "nombre": "ESCITALOPRAM VISO FARMACEUTICA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG,56 comprimidos",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "ffin": "2027-01-30",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "816223",
+   "nombre": "ESTRADERM MATRIX 25 microgramos/24 horas PARCHES TRANSDERMICOS, 8 parches",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "ffin": "2026-12-21",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "680788",
+   "nombre": "REPAGLINIDA PENSA 2 mg COMPRIMIDOS EFG, 90 comprimidos",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
+  },
+  {
+   "cn": "760531",
+   "nombre": "ROSUVASTATINA/EZETIMIBA KERN PHARMA 10 MG/10 MG CAPSULAS DURAS, 30 cápsulas",
+   "tipoProblemaSuministro": 6,
+   "fini": "2026-11-23",
+   "ffin": "2027-01-11",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
+  },
+  {
+   "cn": "677138",
+   "nombre": "SOLUVIT LIOFILIZADO PARA SOLUCION PARA PERFUSION, 10 viales",
+   "tipoProblemaSuministro": 9,
+   "fini": "2026-11-23",
+   "ffin": "2026-12-17",
+   "activo": true,
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
+  },
+  {
+   "cn": "607120",
+   "nombre": "TEICOPLANINA SALA 400 MG POLVO PARA SOLUCION INYECTABLE Y PARA PERFUSION  EFG 5 viales",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-23",
+   "ffin": "2027-12-30",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "758029",
+   "nombre": "VORAXAZE 1.000 UNIDADES POLVO PARA SOLUCION INYECTABLE, 1 vial",
+   "tipoProblemaSuministro": 10,
+   "fini": "2026-11-23",
+   "ffin": "2027-01-06",
+   "activo": true,
+   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. Unidades acondicionadas en un idioma distinto al castellano."
+  },
   {
    "cn": "728298",
    "nombre": "DULOXETINA KERN PHARMA 60 MG CÁPSULAS DURAS GASTRORRESISTENTES EFG 28 cápsulas (Blister PVC-PVDC/Al)",
@@ -636,15 +759,6 @@
    "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
-   "cn": "916585",
-   "nombre": "SPASMOCTYL 40, 60 grageas",
-   "tipoProblemaSuministro": 3,
-   "fini": "2026-11-12",
-   "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
-   "ffin": null
-  },
-  {
    "cn": "652160",
    "nombre": "TARCEVA 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 30 comprimidos",
    "tipoProblemaSuministro": 5,
@@ -670,15 +784,6 @@
    "ffin": "2026-12-01",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
-  },
-  {
-   "cn": "763545",
-   "nombre": "VYDURA 75 MG LIOFILIZADO ORAL, 16 comprimidos",
-   "tipoProblemaSuministro": 10,
-   "fini": "2026-11-11",
-   "ffin": "2026-11-29",
-   "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. acondicionadas en un idioma distinto al castellano."
   },
   {
    "cn": "667105",
@@ -757,7 +862,7 @@
    "nombre": "AZITROMICINA KERN PHARMA 200 mg/5 ml POLVO PARA SUSPENSION ORAL  EFG, 1 frasco de 30 ml",
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-09",
-   "ffin": "2026-11-29",
+   "ffin": "2027-02-25",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -1252,7 +1357,7 @@
    "nombre": "AZITROMICINA KERN PHARMA 200 mg/5 ml POLVO PARA SUSPENSION ORAL  EFG, 1 frasco de 15 ml",
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-29",
-   "ffin": "2026-11-29",
+   "ffin": "2027-02-25",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -1473,15 +1578,6 @@
    "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
-   "cn": "660879",
-   "nombre": "LOSARTAN KERN PHARMA 50 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-10-28",
-   "ffin": "2026-12-01",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
    "cn": "884676",
    "nombre": "NEURONTIN 800 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 90 comprimidos",
    "tipoProblemaSuministro": 5,
@@ -1599,15 +1695,6 @@
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
-   "cn": "711116",
-   "nombre": "IMATINIB TEVA 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 30 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-10-27",
-   "ffin": "2026-12-10",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
    "cn": "730018",
    "nombre": "TAPTIQOM 15 MICROGRAMOS/ML + 5 MG/ML COLIRIO EN SOLUCION, 1 frasco de 3 ml",
    "tipoProblemaSuministro": 6,
@@ -1624,15 +1711,6 @@
    "ffin": "2027-01-07",
    "activo": true,
    "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
-  },
-  {
-   "cn": "693688",
-   "nombre": "ATORVASTATINA VIATRIS 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (OPA/Al/PVC/Al)",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-10-26",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
-   "ffin": null
   },
   {
    "cn": "727689",
@@ -1820,7 +1898,7 @@
    "tipoProblemaSuministro": 9,
    "fini": "2026-10-21",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. ",
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas.",
    "ffin": null
   },
   {
@@ -1830,7 +1908,7 @@
    "fini": "2026-10-21",
    "ffin": "2027-01-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728174",
@@ -1839,7 +1917,7 @@
    "fini": "2026-10-21",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "817866",
@@ -1848,7 +1926,7 @@
    "fini": "2026-10-21",
    "ffin": "2027-01-10",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "757389",
@@ -1857,7 +1935,7 @@
    "fini": "2026-10-21",
    "ffin": "2027-03-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "757386",
@@ -1866,7 +1944,7 @@
    "fini": "2026-10-21",
    "ffin": "2027-03-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "757392",
@@ -1875,7 +1953,7 @@
    "fini": "2026-10-21",
    "ffin": "2027-03-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "757396",
@@ -1884,7 +1962,7 @@
    "fini": "2026-10-21",
    "ffin": "2027-03-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "733351",
@@ -1893,7 +1971,7 @@
    "fini": "2026-10-21",
    "ffin": "2026-12-03",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "968818",
@@ -1901,7 +1979,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-10-20",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -1909,9 +1987,9 @@
    "nombre": "CITALOPRAM KERN PHARMA 30 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-20",
+   "ffin": "2027-01-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
-   "ffin": null
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "843904",
@@ -1919,7 +1997,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-20",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -1929,16 +2007,7 @@
    "fini": "2026-10-20",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
-  },
-  {
-   "cn": "723375",
-   "nombre": "AIMOVIG 70 MG SOLUCION INYECTABLE EN PLUMA PRECARGADA, 1 pluma precargada de 1 ml",
-   "tipoProblemaSuministro": 3,
-   "fini": "2026-10-19",
-   "ffin": "2026-12-09",
-   "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "750976",
@@ -1947,7 +2016,7 @@
    "fini": "2026-10-19",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "717546",
@@ -1955,7 +2024,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-10-19",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -1965,7 +2034,7 @@
    "fini": "2026-10-18",
    "ffin": "2027-05-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "727690",
@@ -1981,9 +2050,9 @@
    "nombre": "EVOPAD 75 microgramos/24 H PARCHES TRANSDERMICOS, 8 parches",
    "tipoProblemaSuministro": 3,
    "fini": "2026-10-18",
+   "ffin": "2026-12-03",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
-   "ffin": null
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "765998",
@@ -1992,7 +2061,7 @@
    "fini": "2026-10-18",
    "ffin": "2027-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "680734",
@@ -2001,7 +2070,7 @@
    "fini": "2026-10-18",
    "ffin": "2027-03-23",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "723453",
@@ -2009,7 +2078,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-18",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2019,7 +2088,7 @@
    "fini": "2026-10-18",
    "ffin": "2027-05-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "709775",
@@ -2028,7 +2097,7 @@
    "fini": "2026-10-15",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765890",
@@ -2037,7 +2106,7 @@
    "fini": "2026-10-15",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Desabastecimiento temporal. "
+   "observ": "Desabastecimiento temporal."
   },
   {
    "cn": "673141",
@@ -2045,7 +2114,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2055,7 +2124,7 @@
    "fini": "2026-10-15",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765119",
@@ -2073,7 +2142,7 @@
    "fini": "2026-10-15",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "700683",
@@ -2082,7 +2151,7 @@
    "fini": "2026-10-15",
    "ffin": "2027-04-12",
    "activo": true,
-   "observ": "Suministro sólo a hospitales. "
+   "observ": "Suministro sólo a hospitales."
   },
   {
    "cn": "607589",
@@ -2091,7 +2160,7 @@
    "fini": "2026-10-15",
    "ffin": "2026-12-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "732855",
@@ -2100,7 +2169,7 @@
    "fini": "2026-10-14",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765647",
@@ -2109,7 +2178,7 @@
    "fini": "2026-10-14",
    "ffin": "2027-01-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "675297",
@@ -2118,7 +2187,7 @@
    "fini": "2026-10-14",
    "ffin": "2026-12-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "763715",
@@ -2127,7 +2196,7 @@
    "fini": "2026-10-14",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "724321",
@@ -2136,7 +2205,7 @@
    "fini": "2026-10-14",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765467",
@@ -2145,7 +2214,7 @@
    "fini": "2026-10-14",
    "ffin": "2027-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "726807",
@@ -2163,7 +2232,7 @@
    "fini": "2026-10-13",
    "ffin": "2028-10-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "705511",
@@ -2172,7 +2241,7 @@
    "fini": "2026-10-13",
    "ffin": "2026-12-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "723604",
@@ -2190,7 +2259,7 @@
    "fini": "2026-10-12",
    "ffin": "2026-12-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "661221",
@@ -2199,7 +2268,7 @@
    "fini": "2026-10-12",
    "ffin": "2026-12-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "689793",
@@ -2208,7 +2277,7 @@
    "fini": "2026-10-12",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "708430",
@@ -2217,7 +2286,7 @@
    "fini": "2026-10-12",
    "ffin": "2027-01-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "936989",
@@ -2225,7 +2294,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2235,7 +2304,7 @@
    "fini": "2026-10-12",
    "ffin": "2027-03-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "654213",
@@ -2253,7 +2322,7 @@
    "fini": "2026-10-12",
    "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "693766",
@@ -2261,7 +2330,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2271,7 +2340,7 @@
    "fini": "2026-10-08",
    "ffin": "2026-12-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "701742",
@@ -2279,7 +2348,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2289,7 +2358,7 @@
    "fini": "2026-10-08",
    "ffin": "2026-12-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "766466",
@@ -2298,7 +2367,7 @@
    "fini": "2026-10-08",
    "ffin": "2026-12-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "652678",
@@ -2306,7 +2375,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-10-07",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -2316,7 +2385,7 @@
    "fini": "2026-10-07",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765714",
@@ -2333,7 +2402,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-07",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2352,7 +2421,7 @@
    "fini": "2026-10-07",
    "ffin": "2026-12-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "766452",
@@ -2360,7 +2429,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2369,7 +2438,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2379,7 +2448,7 @@
    "fini": "2026-10-06",
    "ffin": "2026-12-20",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "689253",
@@ -2387,7 +2456,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2397,7 +2466,7 @@
    "fini": "2026-10-06",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. "
+   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional."
   },
   {
    "cn": "663705",
@@ -2415,7 +2484,7 @@
    "fini": "2026-10-06",
    "ffin": "2027-01-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "699823",
@@ -2424,7 +2493,7 @@
    "fini": "2026-10-06",
    "ffin": "2026-12-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "766907",
@@ -2432,7 +2501,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2441,7 +2510,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2451,7 +2520,7 @@
    "fini": "2026-10-06",
    "ffin": "2028-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "723751",
@@ -2460,7 +2529,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "723750",
@@ -2469,7 +2538,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "711762",
@@ -2477,7 +2546,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-05",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2486,7 +2555,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-05",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2495,7 +2564,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-05",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2505,7 +2574,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-12-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "639740",
@@ -2513,7 +2582,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-05",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2523,7 +2592,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-12-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "695566",
@@ -2532,7 +2601,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "665195",
@@ -2541,7 +2610,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "674888",
@@ -2550,7 +2619,7 @@
    "fini": "2026-10-05",
    "ffin": "2026-12-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "723370",
@@ -2559,7 +2628,7 @@
    "fini": "2026-10-05",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "718781",
@@ -2568,7 +2637,7 @@
    "fini": "2026-10-05",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "768974",
@@ -2577,7 +2646,7 @@
    "fini": "2026-10-04",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "766702",
@@ -2586,7 +2655,7 @@
    "fini": "2026-10-04",
    "ffin": "2027-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "664343",
@@ -2594,7 +2663,7 @@
    "tipoProblemaSuministro": 9,
    "fini": "2026-10-04",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. ",
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas.",
    "ffin": null
   },
   {
@@ -2604,7 +2673,7 @@
    "fini": "2026-10-01",
    "ffin": "2026-12-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "706764",
@@ -2613,7 +2682,7 @@
    "fini": "2026-09-30",
    "ffin": "2027-01-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "778654",
@@ -2631,7 +2700,7 @@
    "fini": "2026-09-30",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "756015",
@@ -2640,7 +2709,7 @@
    "fini": "2026-09-30",
    "ffin": "2026-12-09",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "667193",
@@ -2658,7 +2727,7 @@
    "fini": "2026-09-30",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "El Titular de Autorización de Comercialización está realizando una distribución controlada a hospitales "
+   "observ": "El Titular de Autorización de Comercialización está realizando una distribución controlada a hospitales"
   },
   {
    "cn": "770196",
@@ -2685,16 +2754,16 @@
    "fini": "2026-09-30",
    "ffin": "2027-01-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "607118",
    "nombre": "TEICOPLANINA SALA 200 MG POLVO PARA SOLUCION INYECTABLE Y PARA PERFUSION EFG,5 viales",
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-30",
+   "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
-   "ffin": null
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728902",
@@ -2712,7 +2781,7 @@
    "fini": "2026-09-29",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "696793",
@@ -2721,7 +2790,7 @@
    "fini": "2026-09-29",
    "ffin": "2026-12-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "721461",
@@ -2730,7 +2799,7 @@
    "fini": "2026-09-29",
    "ffin": "2027-01-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "710245",
@@ -2739,7 +2808,7 @@
    "fini": "2026-09-29",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "762303",
@@ -2748,7 +2817,7 @@
    "fini": "2026-09-29",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "609669",
@@ -2756,7 +2825,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2026-09-29",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -2766,7 +2835,7 @@
    "fini": "2026-09-29",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "El Titular de Autorización de Comercialización está realizando una distribución controlada a hospitales "
+   "observ": "El Titular de Autorización de Comercialización está realizando una distribución controlada a hospitales"
   },
   {
    "cn": "726522",
@@ -2775,7 +2844,7 @@
    "fini": "2026-09-28",
    "ffin": "2027-02-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "677291",
@@ -2784,7 +2853,7 @@
    "fini": "2026-09-28",
    "ffin": "2027-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "670497",
@@ -2792,7 +2861,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2802,7 +2871,7 @@
    "fini": "2026-09-27",
    "ffin": "2026-12-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "661200",
@@ -2811,7 +2880,7 @@
    "fini": "2026-09-27",
    "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "705283",
@@ -2820,7 +2889,7 @@
    "fini": "2026-09-24",
    "ffin": "2027-01-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "665878",
@@ -2829,7 +2898,7 @@
    "fini": "2026-09-24",
    "ffin": "2027-03-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "823799",
@@ -2838,7 +2907,7 @@
    "fini": "2026-09-24",
    "ffin": "2027-02-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "600767",
@@ -2847,7 +2916,7 @@
    "fini": "2026-09-23",
    "ffin": "2027-03-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "717496",
@@ -2856,7 +2925,7 @@
    "fini": "2026-09-23",
    "ffin": "2027-02-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "725101",
@@ -2865,7 +2934,7 @@
    "fini": "2026-09-23",
    "ffin": "2026-12-05",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "940320",
@@ -2873,7 +2942,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2883,7 +2952,7 @@
    "fini": "2026-09-21",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728173",
@@ -2892,7 +2961,7 @@
    "fini": "2026-09-21",
    "ffin": "2027-01-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "653154",
@@ -2910,7 +2979,7 @@
    "fini": "2026-09-20",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "731880",
@@ -2919,7 +2988,7 @@
    "fini": "2026-09-20",
    "ffin": "2027-01-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "758044",
@@ -2928,7 +2997,7 @@
    "fini": "2026-09-20",
    "ffin": "2027-02-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "607861",
@@ -2936,7 +3005,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-20",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2946,7 +3015,7 @@
    "fini": "2026-09-20",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "714085",
@@ -2954,7 +3023,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-20",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -2964,7 +3033,7 @@
    "fini": "2026-09-16",
    "ffin": "2026-12-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "725478",
@@ -2973,7 +3042,7 @@
    "fini": "2026-09-16",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "722068",
@@ -2991,7 +3060,7 @@
    "fini": "2026-09-15",
    "ffin": "2026-12-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "602392",
@@ -2999,7 +3068,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3009,7 +3078,7 @@
    "fini": "2026-09-15",
    "ffin": "2027-02-25",
    "activo": true,
-   "observ": "Existen tratamientos alternativos no sujetos a prescripción. "
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción."
   },
   {
    "cn": "711203",
@@ -3018,7 +3087,7 @@
    "fini": "2026-09-15",
    "ffin": "2027-05-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "707162",
@@ -3027,7 +3096,7 @@
    "fini": "2026-09-15",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "660467",
@@ -3036,7 +3105,7 @@
    "fini": "2026-09-14",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "660466",
@@ -3045,7 +3114,7 @@
    "fini": "2026-09-14",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "677290",
@@ -3054,7 +3123,7 @@
    "fini": "2026-09-13",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "860940",
@@ -3063,7 +3132,7 @@
    "fini": "2026-09-10",
    "ffin": "2027-07-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "656012",
@@ -3072,7 +3141,7 @@
    "fini": "2026-09-10",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "768833",
@@ -3081,7 +3150,7 @@
    "fini": "2026-09-10",
    "ffin": "2026-12-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "721247",
@@ -3090,7 +3159,7 @@
    "fini": "2026-09-10",
    "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "711172",
@@ -3099,7 +3168,7 @@
    "fini": "2026-09-10",
    "ffin": "2027-05-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730289",
@@ -3107,7 +3176,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3115,9 +3184,9 @@
    "nombre": "ACICLOVIR SALA 250 MG POLVO PARA SOLUCION PARA PERFUSION EFG, 5 viales de 10 ml",
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-09",
+   "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
-   "ffin": null
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "663294",
@@ -3126,7 +3195,7 @@
    "fini": "2026-09-09",
    "ffin": "2027-02-28",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "654515",
@@ -3135,7 +3204,7 @@
    "fini": "2026-09-09",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "768832",
@@ -3144,7 +3213,7 @@
    "fini": "2026-09-09",
    "ffin": "2026-12-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728299",
@@ -3153,7 +3222,7 @@
    "fini": "2026-09-08",
    "ffin": "2027-03-11",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "667451",
@@ -3162,7 +3231,7 @@
    "fini": "2026-09-08",
    "ffin": "2027-01-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "663162",
@@ -3171,16 +3240,16 @@
    "fini": "2026-09-08",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "718827",
    "nombre": "IVABRADINA VIATRIS 5 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 56 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-06",
-   "ffin": "2026-11-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "668087",
@@ -3188,7 +3257,7 @@
    "tipoProblemaSuministro": 9,
    "fini": "2026-09-03",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. ",
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas.",
    "ffin": null
   },
   {
@@ -3198,7 +3267,7 @@
    "fini": "2026-09-03",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "725028",
@@ -3207,7 +3276,7 @@
    "fini": "2026-09-03",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "600300",
@@ -3215,7 +3284,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-09-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3225,7 +3294,7 @@
    "fini": "2026-09-02",
    "ffin": "2026-12-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "682755",
@@ -3234,7 +3303,7 @@
    "fini": "2026-09-02",
    "ffin": "2027-01-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "663621",
@@ -3243,7 +3312,7 @@
    "fini": "2026-09-01",
    "ffin": "2027-06-07",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "729276",
@@ -3251,7 +3320,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3260,7 +3329,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3270,7 +3339,7 @@
    "fini": "2026-08-30",
    "ffin": "2027-03-14",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "855288",
@@ -3279,7 +3348,7 @@
    "fini": "2026-08-30",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "758613",
@@ -3287,7 +3356,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3296,7 +3365,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3306,7 +3375,7 @@
    "fini": "2026-08-26",
    "ffin": "2027-08-30",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "716323",
@@ -3315,7 +3384,7 @@
    "fini": "2026-08-25",
    "ffin": "2026-12-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "653439",
@@ -3323,7 +3392,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3333,7 +3402,7 @@
    "fini": "2026-08-25",
    "ffin": "2026-11-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "712850",
@@ -3342,16 +3411,16 @@
    "fini": "2026-08-24",
    "ffin": "2026-12-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "672779",
    "nombre": "MONTELUKAST KERN PHARMA 4 mg COMPRIMIDOS MASTICABLES EFG, 28 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-24",
-   "ffin": "2026-11-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "817973",
@@ -3360,7 +3429,7 @@
    "fini": "2026-08-24",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "814707",
@@ -3378,7 +3447,7 @@
    "fini": "2026-08-23",
    "ffin": "2026-12-15",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "687438",
@@ -3387,7 +3456,7 @@
    "fini": "2026-08-23",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "693736",
@@ -3396,7 +3465,7 @@
    "fini": "2026-08-23",
    "ffin": "2027-01-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "731881",
@@ -3405,7 +3474,7 @@
    "fini": "2026-08-23",
    "ffin": "2027-01-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "684184",
@@ -3414,7 +3483,7 @@
    "fini": "2026-08-23",
    "ffin": "2027-01-03",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "693584",
@@ -3423,7 +3492,7 @@
    "fini": "2026-08-23",
    "ffin": "2026-12-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "698809",
@@ -3432,7 +3501,7 @@
    "fini": "2026-08-23",
    "ffin": "2027-05-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "831123",
@@ -3440,7 +3509,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-08-20",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -3449,7 +3518,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-08-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -3459,7 +3528,7 @@
    "fini": "2026-08-19",
    "ffin": "2027-02-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "716067",
@@ -3468,7 +3537,7 @@
    "fini": "2026-08-19",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "706008",
@@ -3477,7 +3546,7 @@
    "fini": "2026-08-16",
    "ffin": "2027-01-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728321",
@@ -3486,7 +3555,7 @@
    "fini": "2026-08-16",
    "ffin": "2027-07-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "667214",
@@ -3495,7 +3564,7 @@
    "fini": "2026-08-16",
    "ffin": "2028-10-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "731384",
@@ -3504,7 +3573,7 @@
    "fini": "2026-08-16",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "731387",
@@ -3513,7 +3582,7 @@
    "fini": "2026-08-16",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "660555",
@@ -3531,7 +3600,7 @@
    "fini": "2026-08-13",
    "ffin": "2027-02-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "663622",
@@ -3540,7 +3609,7 @@
    "fini": "2026-08-12",
    "ffin": "2027-06-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "759621",
@@ -3549,7 +3618,7 @@
    "fini": "2026-08-12",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "711117",
@@ -4614,24 +4683,6 @@
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
   },
   {
-   "cn": "723765",
-   "nombre": "MOXIFLOXACINO PENSA 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 5 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-06-21",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
-   "ffin": null
-  },
-  {
-   "cn": "723766",
-   "nombre": "MOXIFLOXACINO PENSA 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 7 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-06-21",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
-   "ffin": null
-  },
-  {
    "cn": "740969",
    "nombre": "SOMAZINA 1g SOLUCION INYECTABLE, 10 ampollas de 4 ml",
    "tipoProblemaSuministro": 7,
@@ -5091,15 +5142,6 @@
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
   },
   {
-   "cn": "607581",
-   "nombre": "OMNIPAQUE 300 mg Iodo /ml SOLUCION INYECTABLE, 10 frascos de 50 ml",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-05-19",
-   "ffin": "2026-11-25",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
-  },
-  {
    "cn": "695793",
    "nombre": "QUETIAPINA KERN PHARMA 400 MG COMPRIMIDOS DE LIBERACION PROLONGADA EFG, 60 comprimidos",
    "tipoProblemaSuministro": 5,
@@ -5393,7 +5435,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-04-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5403,7 +5445,7 @@
    "fini": "2026-04-13",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "711007",
@@ -5412,7 +5454,7 @@
    "fini": "2026-04-13",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "708597",
@@ -5421,7 +5463,7 @@
    "fini": "2026-04-12",
    "ffin": "2027-04-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "696758",
@@ -5429,7 +5471,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-04-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5439,7 +5481,7 @@
    "fini": "2026-04-09",
    "ffin": "2027-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "762478",
@@ -5448,7 +5490,7 @@
    "fini": "2026-04-09",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "697878",
@@ -5456,7 +5498,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-04-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5466,7 +5508,7 @@
    "fini": "2026-04-08",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "680715",
@@ -5475,7 +5517,7 @@
    "fini": "2026-04-07",
    "ffin": "2027-03-23",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "606061",
@@ -5483,7 +5525,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-04-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5493,7 +5535,7 @@
    "fini": "2026-04-05",
    "ffin": "2027-03-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "600634",
@@ -5501,7 +5543,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5511,7 +5553,7 @@
    "fini": "2026-03-31",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "727244",
@@ -5519,7 +5561,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5529,7 +5571,7 @@
    "fini": "2026-03-29",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "715597",
@@ -5537,7 +5579,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5546,7 +5588,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5556,7 +5598,7 @@
    "fini": "2026-03-25",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "722448",
@@ -5565,7 +5607,7 @@
    "fini": "2026-03-24",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "703873",
@@ -5574,7 +5616,7 @@
    "fini": "2026-03-23",
    "ffin": "2027-01-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "693437",
@@ -5583,7 +5625,7 @@
    "fini": "2026-03-23",
    "ffin": "2027-04-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "699983",
@@ -5592,7 +5634,7 @@
    "fini": "2026-03-23",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existen tratamientos alternativos no sujetos a prescripción. "
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción."
   },
   {
    "cn": "771022",
@@ -5601,7 +5643,7 @@
    "fini": "2026-03-22",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "730364",
@@ -5610,7 +5652,7 @@
    "fini": "2026-03-22",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "652314",
@@ -5618,7 +5660,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5627,7 +5669,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5637,7 +5679,7 @@
    "fini": "2026-03-22",
    "ffin": "2027-05-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "715595",
@@ -5646,7 +5688,7 @@
    "fini": "2026-03-22",
    "ffin": "2028-01-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "704910",
@@ -5655,7 +5697,7 @@
    "fini": "2026-03-19",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "726372",
@@ -5664,7 +5706,7 @@
    "fini": "2026-03-19",
    "ffin": "2027-06-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765785",
@@ -5673,7 +5715,7 @@
    "fini": "2026-03-19",
    "ffin": "2027-01-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "660248",
@@ -5682,7 +5724,7 @@
    "fini": "2026-03-18",
    "ffin": "2027-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "708599",
@@ -5691,7 +5733,7 @@
    "fini": "2026-03-17",
    "ffin": "2027-04-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "711061",
@@ -5700,7 +5742,7 @@
    "fini": "2026-03-17",
    "ffin": "2027-03-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "704266",
@@ -5709,7 +5751,7 @@
    "fini": "2026-03-17",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "704273",
@@ -5718,7 +5760,7 @@
    "fini": "2026-03-17",
    "ffin": "2027-03-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "696072",
@@ -5727,7 +5769,7 @@
    "fini": "2026-03-15",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "711046",
@@ -5735,7 +5777,7 @@
    "tipoProblemaSuministro": 9,
    "fini": "2026-03-15",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. ",
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas.",
    "ffin": null
   },
   {
@@ -5745,7 +5787,7 @@
    "fini": "2026-03-15",
    "ffin": "2026-11-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "711281",
@@ -5754,7 +5796,7 @@
    "fini": "2026-03-15",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "670502",
@@ -5763,7 +5805,7 @@
    "fini": "2026-03-10",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "687597",
@@ -5772,7 +5814,7 @@
    "fini": "2026-03-10",
    "ffin": "2027-03-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "999881",
@@ -5780,7 +5822,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5789,7 +5831,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5799,7 +5841,7 @@
    "fini": "2026-03-06",
    "ffin": "2027-02-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "690164",
@@ -5808,7 +5850,7 @@
    "fini": "2026-03-05",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "727600",
@@ -5816,7 +5858,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5825,7 +5867,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5834,7 +5876,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5843,7 +5885,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5853,7 +5895,7 @@
    "fini": "2026-03-04",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728737",
@@ -5861,7 +5903,7 @@
    "tipoProblemaSuministro": 6,
    "fini": "2026-03-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5870,7 +5912,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-03",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5889,7 +5931,7 @@
    "fini": "2026-03-01",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "653193",
@@ -5897,7 +5939,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-03-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5907,7 +5949,7 @@
    "fini": "2026-03-01",
    "ffin": "2027-01-09",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "760142",
@@ -5915,7 +5957,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5925,7 +5967,7 @@
    "fini": "2026-02-26",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "714082",
@@ -5934,7 +5976,7 @@
    "fini": "2026-02-26",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "656353",
@@ -5942,7 +5984,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5951,7 +5993,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -5961,7 +6003,7 @@
    "fini": "2026-02-23",
    "ffin": "2026-12-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "699424",
@@ -5970,7 +6012,7 @@
    "fini": "2026-02-23",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "664658",
@@ -5979,7 +6021,7 @@
    "fini": "2026-02-23",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "720967",
@@ -5988,7 +6030,7 @@
    "fini": "2026-02-23",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "764194",
@@ -5996,7 +6038,7 @@
    "tipoProblemaSuministro": 10,
    "fini": "2026-02-23",
    "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. ",
+   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional.",
    "ffin": null
   },
   {
@@ -6005,7 +6047,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6015,7 +6057,7 @@
    "fini": "2026-02-17",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "910067",
@@ -6023,7 +6065,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-02-17",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -6032,7 +6074,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-02-17",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -6041,7 +6083,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2026-02-17",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -6050,7 +6092,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6069,7 +6111,7 @@
    "fini": "2026-02-11",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "725152",
@@ -6078,7 +6120,7 @@
    "fini": "2026-02-11",
    "ffin": "2026-11-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730924",
@@ -6086,7 +6128,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6096,7 +6138,7 @@
    "fini": "2026-02-10",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "732777",
@@ -6114,7 +6156,7 @@
    "fini": "2026-02-08",
    "ffin": "2027-01-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728990",
@@ -6122,7 +6164,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6131,7 +6173,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-03",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6140,7 +6182,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-03",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6149,7 +6191,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2026-02-03",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -6159,7 +6201,7 @@
    "fini": "2026-02-02",
    "ffin": "2027-03-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "767135",
@@ -6167,7 +6209,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6176,7 +6218,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-02-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6186,7 +6228,7 @@
    "fini": "2026-02-01",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "693520",
@@ -6195,7 +6237,7 @@
    "fini": "2026-01-27",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "724351",
@@ -6204,7 +6246,7 @@
    "fini": "2026-01-22",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existen tratamientos alternativos no sujetos a prescripción. "
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción."
   },
   {
    "cn": "734491",
@@ -6213,7 +6255,7 @@
    "fini": "2026-01-22",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "724229",
@@ -6222,7 +6264,7 @@
    "fini": "2026-01-22",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existen tratamientos alternativos no sujetos a prescripción. "
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción."
   },
   {
    "cn": "731531",
@@ -6230,7 +6272,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-01-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6239,7 +6281,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-01-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6248,7 +6290,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-01-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6258,7 +6300,7 @@
    "fini": "2026-01-18",
    "ffin": "2027-04-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "679726",
@@ -6266,7 +6308,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-01-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6276,7 +6318,7 @@
    "fini": "2026-01-12",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existen tratamientos alternativos no sujetos a prescripción. "
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción."
   },
   {
    "cn": "708345",
@@ -6284,7 +6326,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6294,16 +6336,7 @@
    "fini": "2026-01-12",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existen tratamientos alternativos no sujetos a prescripción. "
-  },
-  {
-   "cn": "653440",
-   "nombre": "PENILEVEL 2.000.000 U.I. POLVO Y DISOLVENTE PARA SOLUCIÓN INYECTABLE, 1 vial + 1 ampolla de disolvente",
-   "tipoProblemaSuministro": 9,
-   "fini": "2026-01-11",
-   "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. ",
-   "ffin": null
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción."
   },
   {
    "cn": "653446",
@@ -6311,7 +6344,7 @@
    "tipoProblemaSuministro": 9,
    "fini": "2026-01-11",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. ",
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas.",
    "ffin": null
   },
   {
@@ -6321,7 +6354,7 @@
    "fini": "2026-01-08",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "670696",
@@ -6330,7 +6363,7 @@
    "fini": "2026-01-07",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "733736",
@@ -6375,7 +6408,7 @@
    "fini": "2026-01-04",
    "ffin": "2026-12-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "664261",
@@ -6384,7 +6417,7 @@
    "fini": "2025-12-21",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "687034",
@@ -6393,7 +6426,7 @@
    "fini": "2025-12-21",
    "ffin": "2027-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "687044",
@@ -6402,7 +6435,7 @@
    "fini": "2025-12-21",
    "ffin": "2027-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "764555",
@@ -6411,7 +6444,7 @@
    "fini": "2025-12-21",
    "ffin": "2026-12-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "717019",
@@ -6420,7 +6453,7 @@
    "fini": "2025-12-18",
    "ffin": "2027-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "695147",
@@ -6429,7 +6462,7 @@
    "fini": "2025-12-16",
    "ffin": "2027-01-11",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "679958",
@@ -6438,7 +6471,7 @@
    "fini": "2025-12-11",
    "ffin": "2027-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "696073",
@@ -6447,7 +6480,7 @@
    "fini": "2025-12-09",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "702665",
@@ -6455,7 +6488,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-12-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6465,7 +6498,7 @@
    "fini": "2025-12-08",
    "ffin": "2026-11-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730937",
@@ -6473,7 +6506,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-12-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6482,7 +6515,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2025-12-01",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -6492,7 +6525,7 @@
    "fini": "2025-11-27",
    "ffin": "2026-12-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "729081",
@@ -6510,7 +6543,7 @@
    "fini": "2025-11-20",
    "ffin": "2026-12-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "667896",
@@ -6518,7 +6551,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-11-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6528,7 +6561,7 @@
    "fini": "2025-11-13",
    "ffin": "2028-06-13",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "656872",
@@ -6536,7 +6569,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-11-10",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6546,7 +6579,7 @@
    "fini": "2025-11-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "720027",
@@ -6555,7 +6588,7 @@
    "fini": "2025-11-06",
    "ffin": "2027-06-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "654666",
@@ -6563,7 +6596,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-11-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6573,7 +6606,7 @@
    "fini": "2025-11-05",
    "ffin": "2027-01-10",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "659856",
@@ -6582,7 +6615,7 @@
    "fini": "2025-11-05",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "678362",
@@ -6591,7 +6624,7 @@
    "fini": "2025-11-02",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "763437",
@@ -6599,7 +6632,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-10-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6608,7 +6641,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-10-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6618,7 +6651,7 @@
    "fini": "2025-10-28",
    "ffin": "2027-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "725166",
@@ -6627,7 +6660,7 @@
    "fini": "2025-10-22",
    "ffin": "2026-12-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "699572",
@@ -6636,7 +6669,7 @@
    "fini": "2025-10-21",
    "ffin": "2027-01-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "758105",
@@ -6653,7 +6686,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-10-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6663,7 +6696,7 @@
    "fini": "2025-10-08",
    "ffin": "2027-04-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765843",
@@ -6671,7 +6704,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-10-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6680,7 +6713,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-10-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6690,7 +6723,7 @@
    "fini": "2025-09-30",
    "ffin": "2027-03-14",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "709380",
@@ -6707,7 +6740,7 @@
    "tipoProblemaSuministro": 12,
    "fini": "2025-09-24",
    "activo": true,
-   "observ": "El Titular de Autorización de Comercialización está realizando una distribución controlada a hospitales ",
+   "observ": "El Titular de Autorización de Comercialización está realizando una distribución controlada a hospitales",
    "ffin": null
   },
   {
@@ -6717,7 +6750,7 @@
    "fini": "2025-09-24",
    "ffin": "2027-06-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "715506",
@@ -6726,7 +6759,7 @@
    "fini": "2025-09-23",
    "ffin": "2027-03-14",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "842435",
@@ -6743,7 +6776,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2025-09-17",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -6753,7 +6786,7 @@
    "fini": "2025-09-16",
    "ffin": "2027-04-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "758615",
@@ -6762,7 +6795,7 @@
    "fini": "2025-09-14",
    "ffin": "2027-03-31",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "768088",
@@ -6771,7 +6804,7 @@
    "fini": "2025-09-14",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. "
+   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional."
   },
   {
    "cn": "687025",
@@ -6780,7 +6813,7 @@
    "fini": "2025-09-09",
    "ffin": "2027-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "722446",
@@ -6789,7 +6822,7 @@
    "fini": "2025-09-07",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "697283",
@@ -6798,7 +6831,7 @@
    "fini": "2025-09-01",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "732793",
@@ -6807,7 +6840,7 @@
    "fini": "2025-09-01",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "690172",
@@ -6816,7 +6849,7 @@
    "fini": "2025-08-31",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "763061",
@@ -6834,7 +6867,7 @@
    "fini": "2025-08-21",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "726909",
@@ -6843,7 +6876,7 @@
    "fini": "2025-08-21",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "697619",
@@ -6861,7 +6894,7 @@
    "fini": "2025-08-20",
    "ffin": "2026-12-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "600243",
@@ -6879,7 +6912,7 @@
    "fini": "2025-08-12",
    "ffin": "2027-07-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "672096",
@@ -6888,7 +6921,7 @@
    "fini": "2025-08-11",
    "ffin": "2027-12-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "664686",
@@ -6897,7 +6930,7 @@
    "fini": "2025-08-10",
    "ffin": "2027-09-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "731570",
@@ -6915,7 +6948,7 @@
    "fini": "2025-08-05",
    "ffin": "2026-12-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "719049",
@@ -6932,7 +6965,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6941,7 +6974,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6950,7 +6983,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6960,7 +6993,7 @@
    "fini": "2025-07-28",
    "ffin": "2027-01-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "719983",
@@ -6969,7 +7002,7 @@
    "fini": "2025-07-22",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "888685",
@@ -6977,7 +7010,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-20",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -6987,7 +7020,7 @@
    "fini": "2025-07-18",
    "ffin": "2027-05-06",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "695490",
@@ -6996,7 +7029,7 @@
    "fini": "2025-07-14",
    "ffin": "2027-03-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "621615",
@@ -7004,7 +7037,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-07",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7014,7 +7047,7 @@
    "fini": "2025-07-06",
    "ffin": "2027-05-31",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "682807",
@@ -7023,7 +7056,7 @@
    "fini": "2025-07-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "682781",
@@ -7032,7 +7065,7 @@
    "fini": "2025-07-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "682757",
@@ -7041,7 +7074,7 @@
    "fini": "2025-07-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "684019",
@@ -7050,7 +7083,7 @@
    "fini": "2025-07-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "682740",
@@ -7059,7 +7092,7 @@
    "fini": "2025-07-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "684001",
@@ -7068,7 +7101,7 @@
    "fini": "2025-07-06",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "748634",
@@ -7076,7 +7109,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7085,7 +7118,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-07-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7095,7 +7128,7 @@
    "fini": "2025-06-22",
    "ffin": "2027-01-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "728385",
@@ -7104,7 +7137,7 @@
    "fini": "2025-06-22",
    "ffin": "2026-11-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "958215",
@@ -7112,7 +7145,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-06-22",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7121,7 +7154,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-06-18",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7147,9 +7180,9 @@
    "nombre": "GALANTAMINA CINFA 24 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG , 28 cápsulas",
    "tipoProblemaSuministro": 5,
    "fini": "2025-06-08",
-   "ffin": "2026-12-17",
+   "ffin": "2027-04-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730361",
@@ -7158,16 +7191,16 @@
    "fini": "2025-06-08",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "704753",
    "nombre": "ARIPIPRAZOL FLAS CINFA 10 MG COMPRIMIDOS BUCODISPERSABLES EFG , 28 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2025-06-02",
-   "ffin": "2026-12-17",
+   "ffin": "2027-04-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "714982",
@@ -7176,7 +7209,7 @@
    "fini": "2025-06-01",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "682432",
@@ -7185,7 +7218,7 @@
    "fini": "2025-06-01",
    "ffin": "2027-03-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "683866",
@@ -7193,7 +7226,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-06-01",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7203,7 +7236,7 @@
    "fini": "2025-05-29",
    "ffin": "2027-03-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "676082",
@@ -7212,7 +7245,7 @@
    "fini": "2025-05-29",
    "ffin": "2027-03-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "605667",
@@ -7220,7 +7253,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-05-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7230,7 +7263,7 @@
    "fini": "2025-05-22",
    "ffin": "2027-03-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "726518",
@@ -7238,7 +7271,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-05-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7248,7 +7281,7 @@
    "fini": "2025-05-20",
    "ffin": "2027-07-14",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "730563",
@@ -7256,7 +7289,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2025-05-20",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -7266,7 +7299,7 @@
    "fini": "2025-05-16",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "759164",
@@ -7275,7 +7308,7 @@
    "fini": "2025-05-13",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "765582",
@@ -7292,7 +7325,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-05-11",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7302,7 +7335,7 @@
    "fini": "2025-04-28",
    "ffin": "2027-04-15",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "696597",
@@ -7310,7 +7343,7 @@
    "tipoProblemaSuministro": 6,
    "fini": "2025-04-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7320,7 +7353,7 @@
    "fini": "2025-04-14",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "728514",
@@ -7337,7 +7370,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-04-08",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7347,7 +7380,7 @@
    "fini": "2025-04-07",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "729261",
@@ -7356,7 +7389,7 @@
    "fini": "2025-04-06",
    "ffin": "2027-02-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "729263",
@@ -7365,7 +7398,7 @@
    "fini": "2025-04-06",
    "ffin": "2027-02-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "729260",
@@ -7374,7 +7407,7 @@
    "fini": "2025-04-06",
    "ffin": "2027-02-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "677327",
@@ -7392,7 +7425,7 @@
    "fini": "2025-03-31",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "698029",
@@ -7400,7 +7433,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-03-18",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7410,7 +7443,7 @@
    "fini": "2025-03-18",
    "ffin": "2026-12-07",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "607264",
@@ -7419,7 +7452,7 @@
    "fini": "2025-03-16",
    "ffin": "2026-12-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "620724",
@@ -7427,7 +7460,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-03-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7436,7 +7469,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-03-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7445,7 +7478,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-03-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7454,7 +7487,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-03-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7463,7 +7496,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-03-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7473,7 +7506,7 @@
    "fini": "2025-02-23",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "696598",
@@ -7482,7 +7515,7 @@
    "fini": "2025-02-13",
    "ffin": "2027-03-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
   },
   {
    "cn": "693636",
@@ -7491,7 +7524,7 @@
    "fini": "2025-02-11",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "607268",
@@ -7500,7 +7533,7 @@
    "fini": "2025-02-06",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730363",
@@ -7509,7 +7542,7 @@
    "fini": "2025-02-06",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730362",
@@ -7518,7 +7551,7 @@
    "fini": "2025-02-06",
    "ffin": "2027-04-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "836585",
@@ -7527,7 +7560,7 @@
    "fini": "2025-02-06",
    "ffin": "2026-12-29",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "755058",
@@ -7535,7 +7568,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2025-02-03",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -7545,7 +7578,7 @@
    "fini": "2025-01-30",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "696862",
@@ -7554,7 +7587,7 @@
    "fini": "2025-01-30",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "691095",
@@ -7563,7 +7596,7 @@
    "fini": "2025-01-30",
    "ffin": "2027-02-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "705987",
@@ -7572,7 +7605,7 @@
    "fini": "2025-01-29",
    "ffin": "2027-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "615187",
@@ -7580,7 +7613,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2025-01-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7590,7 +7623,7 @@
    "fini": "2025-01-16",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "988485",
@@ -7598,7 +7631,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2025-01-14",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -7617,7 +7650,7 @@
    "fini": "2025-01-08",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "678503",
@@ -7625,7 +7658,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-12-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7634,7 +7667,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-12-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7644,7 +7677,7 @@
    "fini": "2024-12-01",
    "ffin": "2026-12-17",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730506",
@@ -7653,7 +7686,7 @@
    "fini": "2024-11-26",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730509",
@@ -7662,7 +7695,7 @@
    "fini": "2024-11-26",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730511",
@@ -7671,7 +7704,7 @@
    "fini": "2024-11-26",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730513",
@@ -7680,7 +7713,7 @@
    "fini": "2024-11-26",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730503",
@@ -7689,7 +7722,7 @@
    "fini": "2024-11-26",
    "ffin": "2026-12-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "700640",
@@ -7706,7 +7739,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2024-11-05",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -7715,7 +7748,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2024-10-30",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -7724,7 +7757,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-10-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7734,7 +7767,7 @@
    "fini": "2024-10-06",
    "ffin": "2027-05-19",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "691949",
@@ -7743,7 +7776,7 @@
    "fini": "2024-10-06",
    "ffin": "2026-11-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "729629",
@@ -7761,7 +7794,7 @@
    "fini": "2024-09-25",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730205",
@@ -7770,7 +7803,7 @@
    "fini": "2024-09-08",
    "ffin": "2027-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730204",
@@ -7779,7 +7812,7 @@
    "fini": "2024-08-26",
    "ffin": "2027-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "730206",
@@ -7788,7 +7821,7 @@
    "fini": "2024-08-08",
    "ffin": "2027-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "732523",
@@ -7796,7 +7829,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-08-07",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7805,7 +7838,7 @@
    "tipoProblemaSuministro": 3,
    "fini": "2024-08-04",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. ",
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
    "ffin": null
   },
   {
@@ -7814,7 +7847,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-07-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7823,7 +7856,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-07-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7832,7 +7865,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-07-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7842,7 +7875,7 @@
    "fini": "2024-07-10",
    "ffin": "2027-07-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "729628",
@@ -7851,7 +7884,7 @@
    "fini": "2024-07-04",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "715981",
@@ -7859,7 +7892,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-06-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7877,7 +7910,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-06-06",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7886,16 +7919,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2024-05-29",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
-   "ffin": null
-  },
-  {
-   "cn": "733090",
-   "nombre": "MEDSAMIC 100 MG/ML SOLUCION INYECTABLE EFG, 10 ampollas de 10 ml",
-   "tipoProblemaSuministro": 5,
-   "fini": "2024-05-23",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -7905,7 +7929,7 @@
    "fini": "2024-04-29",
    "ffin": "2027-01-31",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "703586",
@@ -7914,7 +7938,7 @@
    "fini": "2024-04-14",
    "ffin": "2027-06-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "731004",
@@ -7923,7 +7947,7 @@
    "fini": "2024-03-31",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "608612",
@@ -7931,7 +7955,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-02-18",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7949,7 +7973,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-02-05",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7967,7 +7991,7 @@
    "tipoProblemaSuministro": 6,
    "fini": "2024-01-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7976,7 +8000,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2024-01-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -7995,7 +8019,7 @@
    "fini": "2023-11-22",
    "ffin": "2027-03-30",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. "
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
    "cn": "602421",
@@ -8003,7 +8027,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-11-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8012,7 +8036,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-11-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8021,7 +8045,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2023-11-15",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8030,7 +8054,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2023-11-15",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8048,7 +8072,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2023-10-04",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8057,7 +8081,7 @@
    "tipoProblemaSuministro": 6,
    "fini": "2023-10-03",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8066,7 +8090,7 @@
    "tipoProblemaSuministro": 6,
    "fini": "2023-10-02",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8076,7 +8100,7 @@
    "fini": "2023-10-01",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "724969",
@@ -8111,7 +8135,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-08-24",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8120,7 +8144,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-07-12",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8129,7 +8153,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2023-07-06",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8139,7 +8163,7 @@
    "fini": "2023-07-06",
    "ffin": "2027-06-29",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "718818",
@@ -8157,7 +8181,7 @@
    "fini": "2023-05-31",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "682765",
@@ -8166,7 +8190,7 @@
    "fini": "2023-05-31",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "901173",
@@ -8175,7 +8199,7 @@
    "fini": "2023-05-31",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas. "
+   "observ": "El titular de autorización de comercialización está realizando una distribución controlada al existir unidades limitadas."
   },
   {
    "cn": "650809",
@@ -8183,7 +8207,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-05-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8219,7 +8243,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-04-16",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8228,7 +8252,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2023-04-13",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8237,7 +8261,7 @@
    "tipoProblemaSuministro": 6,
    "fini": "2023-02-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8247,7 +8271,7 @@
    "fini": "2022-10-19",
    "ffin": "2027-01-14",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "996041",
@@ -8255,7 +8279,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2022-09-01",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8274,7 +8298,7 @@
    "fini": "2022-04-25",
    "ffin": "2026-12-30",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. "
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "688349",
@@ -8282,7 +8306,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2022-01-25",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8291,7 +8315,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2021-10-21",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8309,7 +8333,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2021-01-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8318,7 +8342,7 @@
    "tipoProblemaSuministro": 5,
    "fini": "2021-01-28",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración. ",
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
   },
   {
@@ -8345,7 +8369,7 @@
    "tipoProblemaSuministro": 10,
    "fini": "2020-03-15",
    "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional. ",
+   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional.",
    "ffin": null
   },
   {
@@ -8354,7 +8378,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2019-12-01",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8363,7 +8387,7 @@
    "tipoProblemaSuministro": 7,
    "fini": "2019-11-07",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. ",
+   "observ": "Se puede solicitar como medicamento extranjero.",
    "ffin": null
   },
   {
@@ -8373,7 +8397,7 @@
    "fini": "2016-08-04",
    "ffin": "2027-10-31",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "979823",
@@ -8391,7 +8415,7 @@
    "fini": "2016-05-05",
    "ffin": "2027-11-30",
    "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero. "
+   "observ": "Se puede solicitar como medicamento extranjero."
   }
  ]
 }
