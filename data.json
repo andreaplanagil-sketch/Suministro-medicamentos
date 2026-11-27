@@ -1,24 +1,73 @@
 {
- "actualizado": "2026-11-26T06:59:52+00:00",
- "total": 935,
+ "actualizado": "2026-11-27T07:02:11+00:00",
+ "total": 932,
  "nuevos_cn": [
-  "656570",
-  "665501",
-  "691332",
-  "700412",
-  "716817",
-  "728083",
-  "764767",
-  "768283"
+  "634477",
+  "714132",
+  "716737",
+  "718816",
+  "718821",
+  "719119",
+  "829812"
  ],
  "resueltos_cn": [
-  "653809",
-  "693585",
-  "695332",
-  "712685",
-  "715588"
+  "659782",
+  "682120",
+  "695566",
+  "714904",
+  "715219",
+  "718827",
+  "764194",
+  "764767",
+  "817973",
+  "890426"
  ],
  "resultados": [
+  {
+   "cn": "718816",
+   "nombre": "ATAMAX 25 MG CAPSULAS DURAS EFG 28 cápsulas",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-25",
+   "ffin": "2027-01-28",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "718821",
+   "nombre": "ATAMAX 80 MG CAPSULAS DURAS EFG 28 cápsulas",
+   "tipoProblemaSuministro": 7,
+   "fini": "2026-11-25",
+   "ffin": "2027-04-29",
+   "activo": true,
+   "observ": "Se puede solicitar como medicamento extranjero."
+  },
+  {
+   "cn": "714132",
+   "nombre": "BINOCRIT, 8000 UI/0,8 ml, SOLUCION INYECTABLE EN UNA JERINGA PRECARGADA, 6 jeringas precargadas de 0,8 ml con protector de seguridad para la aguja",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-25",
+   "ffin": "2026-12-14",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "634477",
+   "nombre": "VENOFUSIN BICARBONATO SÓDICO 1 M SOLUCIÓN PARA PERFUSIÓN , 10 frascos de 250 ml",
+   "tipoProblemaSuministro": 3,
+   "fini": "2026-11-25",
+   "ffin": "2026-12-22",
+   "activo": true,
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados. Hay disponible BICARBONATO SODICO 1M SOLUCION INYECTABLE, ampollas de 10 ml, como medicamento extranjero."
+  },
+  {
+   "cn": "716737",
+   "nombre": "ZONISAMIDA NORMON 25 MG CAPSULAS DURAS EFG, 28 cápsulas",
+   "tipoProblemaSuministro": 5,
+   "fini": "2026-11-25",
+   "ffin": "2026-12-13",
+   "activo": true,
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
   {
    "cn": "728083",
    "nombre": "DEFERASIROX STADA 360 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 30 comprimidos",
@@ -65,15 +114,6 @@
    "observ": "Desabastecimiento temporal. Se está gestionando la importación de medicamento extranjero."
   },
   {
-   "cn": "764767",
-   "nombre": "NIAPELF 25 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EFG, 1 jeringa precargada de 0,25 ml",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-11-24",
-   "ffin": "2027-02-14",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
    "cn": "656570",
    "nombre": "RISPERIDONA NORMON 1 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 60 comprimidos",
    "tipoProblemaSuministro": 5,
@@ -117,15 +157,6 @@
    "ffin": "2027-01-30",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
-   "cn": "715219",
-   "nombre": "BECOTIDE 50 microgramos/inhalación SOLUCION PARA INHALACION EN ENVASE A PRESION , 1 cartucho de 200 dosis",
-   "tipoProblemaSuministro": 3,
-   "fini": "2026-11-23",
-   "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
-   "ffin": null
   },
   {
    "cn": "731533",
@@ -420,9 +451,9 @@
    "nombre": "ZANETIN 750 MG  POLVO PARA SOLUCION INYECTABLE Y PARA PERFUSION EFG, 100 viales",
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-19",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "621185",
@@ -465,9 +496,9 @@
    "nombre": "FLUOROCOLINA (18F) CIS BIO INTERNATIONAL 225 MBQ/ML SOLUCION INYECTABLE, 1 vial de 15 ml",
    "tipoProblemaSuministro": 3,
    "fini": "2026-11-18",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
+   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados.",
+   "ffin": null
   },
   {
    "cn": "882209",
@@ -1122,7 +1153,7 @@
    "nombre": "CANDESARTAN NORMON 8 mg COMPRIMIDOS EFG, 28 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-04",
-   "ffin": "2026-12-02",
+   "ffin": "2027-01-13",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -1221,9 +1252,9 @@
    "nombre": "PRO ULCO 30 mg CAPSULAS GASTRORRESISTENTES , 28 cápsulas",
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-03",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "661231",
@@ -1257,7 +1288,7 @@
    "nombre": "CANDESARTAN NORMON 32 mg COMPRIMIDOS EFG, 28 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-02",
-   "ffin": "2026-12-20",
+   "ffin": "2027-02-02",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -1266,7 +1297,7 @@
    "nombre": "CANDESARTAN NORMON 8 mg COMPRIMIDOS EFG, 30 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-02",
-   "ffin": "2026-12-13",
+   "ffin": "2027-01-13",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -1276,15 +1307,6 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-11-02",
    "ffin": "2026-12-14",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
-   "cn": "714904",
-   "nombre": "ETORICOXIB PENSA 30 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-11-02",
-   "ffin": "2027-01-14",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -1359,15 +1381,6 @@
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
-  },
-  {
-   "cn": "890426",
-   "nombre": "ALOPURINOL NORMON 100 mg COMPRIMIDOS EFG , 100 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-10-29",
-   "ffin": "2026-11-29",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "725921",
@@ -1446,9 +1459,9 @@
    "nombre": "IBIS 20 MG COMPRIMIDOS BUCODISPERSABLES, 20 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-29",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "761806",
@@ -1761,7 +1774,7 @@
    "nombre": "CLORAZEPATO NORMON  15 mg CAPSULAS DURAS EFG, 20 cápsulas",
    "tipoProblemaSuministro": 3,
    "fini": "2026-10-26",
-   "ffin": "2026-12-10",
+   "ffin": "2027-02-02",
    "activo": true,
    "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
@@ -2346,18 +2359,18 @@
    "nombre": "PACLITAXEL TEVA 6 mg/ml CONCENTRADO PARA SOLUCION PARA PERFUSION EFG, 1 vial de 50 ml",
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-12",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "693766",
    "nombre": "DOXICICLINA NORMON 100 MG COMPRIMIDOS RECUBIERTOS , 14 grageas",
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-08",
+   "ffin": "2026-12-04",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
-   "ffin": null
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
    "cn": "705804",
@@ -2617,15 +2630,6 @@
    "tipoProblemaSuministro": 5,
    "fini": "2026-10-05",
    "ffin": "2026-12-29",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
-   "cn": "695566",
-   "nombre": "ITRACONAZOL VIATRIS 100 MG CAPSULAS EFG, 14 cápsulas",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-10-05",
-   "ffin": "2026-11-26",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
@@ -2904,9 +2908,9 @@
    "nombre": "CO-DIOVAN 320 mg/12,5 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 28 comprimidos",
    "tipoProblemaSuministro": 6,
    "fini": "2026-09-27",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "705283",
@@ -3269,15 +3273,6 @@
    "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
   },
   {
-   "cn": "718827",
-   "nombre": "IVABRADINA VIATRIS 5 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 56 comprimidos",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-09-06",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
-   "ffin": null
-  },
-  {
    "cn": "668087",
    "nombre": "EVOPAD 25 microgramos/24 H PARCHES TRANSDERMICOS, 8 parches",
    "tipoProblemaSuministro": 9,
@@ -3359,13 +3354,13 @@
    "ffin": null
   },
   {
-   "cn": "682120",
-   "nombre": "BILINA 0,5 mg/ml COLIRIO EN SUSPENSIÓN, 1 frasco de 4 ml",
-   "tipoProblemaSuministro": 3,
-   "fini": "2026-08-30",
-   "ffin": "2027-03-14",
+   "cn": "829812",
+   "nombre": "SUPOSITORIOS DE GLICERINA DR. TORRENTS ADULTOS, 12 supositorios",
+   "tipoProblemaSuministro": 11,
+   "fini": "2026-08-31",
    "activo": true,
-   "observ": "El médico prescriptor deberá determinar la posibilidad de utilizar otros tratamientos comercializados."
+   "observ": "Existen tratamientos alternativos no sujetos a prescripción.",
+   "ffin": null
   },
   {
    "cn": "855288",
@@ -3447,15 +3442,6 @@
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
    "ffin": null
-  },
-  {
-   "cn": "817973",
-   "nombre": "RIFINAH 300 MG/150 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA , 60 comprimidos",
-   "tipoProblemaSuministro": 7,
-   "fini": "2026-08-24",
-   "ffin": "2026-12-14",
-   "activo": true,
-   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "814707",
@@ -4596,9 +4582,9 @@
    "nombre": "ADENOSINA KABI 3 MG/ML SOLUCION INYECTABLE EN JERINGA PRECARGADA, 10 jeringas precargadas de 2 ml ",
    "tipoProblemaSuministro": 5,
    "fini": "2026-06-28",
-   "ffin": "2026-11-26",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "730047",
@@ -4635,15 +4621,6 @@
    "ffin": "2026-12-06",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
-  },
-  {
-   "cn": "659782",
-   "nombre": "METAMIZOL PENSA 575 mg CAPSULAS DURAS EFG, 10 cápsulas",
-   "tipoProblemaSuministro": 5,
-   "fini": "2026-06-25",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
-   "ffin": null
   },
   {
    "cn": "676512",
@@ -4792,11 +4769,11 @@
   {
    "cn": "764207",
    "nombre": "ATOMOXETINA TARBIS 80 MG CÁPSULAS DURAS EFG, 28 cápsulas",
-   "tipoProblemaSuministro": 5,
+   "tipoProblemaSuministro": 7,
    "fini": "2026-06-15",
    "ffin": "2026-12-20",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "689966",
@@ -6050,15 +6027,6 @@
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
   },
   {
-   "cn": "764194",
-   "nombre": "ELUCIREM 0,5 MMOL/ML SOLUCION INYECTABLE, 1 vial de 50 ml",
-   "tipoProblemaSuministro": 10,
-   "fini": "2026-02-23",
-   "activo": true,
-   "observ": "La AEMPS ha autorizado unidades por comercialización excepcional.",
-   "ffin": null
-  },
-  {
    "cn": "759850",
    "nombre": "FINGOLIMOD TARBIS 0,25 mg CAPSULAS DURAS EFG, 28 capsulas",
    "tipoProblemaSuministro": 5,
@@ -6540,9 +6508,18 @@
    "nombre": "GLICLAZIDA NORMON 30 mg COMPRIMIDOS DE LIBERACION MODIFICADA EFG, 60 comprimidos",
    "tipoProblemaSuministro": 5,
    "fini": "2025-11-27",
-   "ffin": "2026-12-01",
+   "ffin": "2027-02-17",
    "activo": true,
    "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+  },
+  {
+   "cn": "719119",
+   "nombre": "ATOMOXETINA CINFA 80 MG CASULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al)",
+   "tipoProblemaSuministro": 7,
+   "fini": "2025-11-25",
+   "ffin": "2026-12-29",
+   "activo": true,
+   "observ": "Se puede solicitar como medicamento extranjero."
   },
   {
    "cn": "729081",
@@ -7746,7 +7723,7 @@
    "nombre": "TRANXILIUM 20 mg POLVO Y DISOLVENTE PARA SOLUCION INYECTABLE , 1 vial + 1 ampolla de disolvente",
    "tipoProblemaSuministro": 1,
    "fini": "2024-11-12",
-   "ffin": "2026-12-01",
+   "ffin": "2026-12-20",
    "activo": true,
    "observ": "Consultar Nota Informativa: https://www.aemps.gob.es/informa/la-aemps-informa-de-un-retraso-en-el-restablecimiento-de-tranxilium-20-mg-polvo-y-disolvente-para-solucion-inyectable/"
   },
