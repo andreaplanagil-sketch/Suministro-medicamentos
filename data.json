@@ -1,26 +1,9 @@
 {
- "actualizado": "2026-11-27T07:02:11+00:00",
- "total": 932,
- "nuevos_cn": [
-  "634477",
-  "714132",
-  "716737",
-  "718816",
-  "718821",
-  "719119",
-  "829812"
- ],
+ "actualizado": "2026-11-28T06:56:14+00:00",
+ "total": 931,
+ "nuevos_cn": [],
  "resueltos_cn": [
-  "659782",
-  "682120",
-  "695566",
-  "714904",
-  "715219",
-  "718827",
-  "764194",
-  "764767",
-  "817973",
-  "890426"
+  "768679"
  ],
  "resultados": [
   {
@@ -3057,15 +3040,6 @@
    "ffin": null
   },
   {
-   "cn": "768679",
-   "nombre": "FENZIL 5 MG/160 MG COMPRIMIDOS RECUBIERTOS CON PELICULA, 30 comprimidos",
-   "tipoProblemaSuministro": 6,
-   "fini": "2026-09-16",
-   "ffin": "2026-12-06",
-   "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con los mismos principios activos y para la misma vía de administración."
-  },
-  {
    "cn": "725478",
    "nombre": "LENALIDOMIDA TEVA 20 MG CAPSULAS DURAS EFG, 21 cápsulas",
    "tipoProblemaSuministro": 5,
@@ -4429,9 +4403,9 @@
    "nombre": "CEFAZOLINA SALA 2 G POLVO PARA SOLUCION INYECTABLE EFG, 50 viales",
    "tipoProblemaSuministro": 5,
    "fini": "2026-07-05",
-   "ffin": "2026-11-27",
    "activo": true,
-   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración."
+   "observ": "Existe/n otro/s medicamento/s con el mismo principio activo y para la misma vía de administración.",
+   "ffin": null
   },
   {
    "cn": "785584",
